@@ -1,0 +1,114 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: Cambria;
+}
+.bottom-container{
+    background-color: rgb(153, 214, 194);
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+
+.contact-me{
+    margin: 80px auto 30px;
+}
+
+.bc{
+position: absolute;
+left: 300px;
+bottom: 300px;
+}
+.chille{
+    height: 11.25rem;
+    width: 11.56rem;
+    border-radius: 5.78rem;
+    float: right;
+    margin-left: 20px;
+}
+
+h1{
+    color: #111d1d;
+    margin: 0;
+    font-family: vladimir script;
+    font-size: 5rem;
+}
+.h2{
+    color: #66BFBF;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1rem;
+}
+.middle-container{
+    margin-top: 20px;
+}
+.me{
+    border-radius: 100%;
+    height: 12.5rem;
+    width: 12.5rem; 
+}
+
+.contact{
+    background-color: burlywood;
+    width: 150px;
+    height: 30px;
+    padding-top: 10px;
+    margin: auto;
+    border-radius: 2rem;
+}
+
+
+.tc{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+.top{
+    background-color: #EAF6F6;
+    position: relative;
+    padding-top: 100px;
+}
+
+.span{
+    font-style: italic;
+    color: dodgerblue;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 50px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.skill-1{
+    width: 50%;
+    margin: 70px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+hr{
+    width: 15%;
+    height: 0;
+    border-style: dotted;
+    border-bottom: none;
+    margin: auto;
+}
+.guitar{
+    width: 12.5rem;
+    height: 12.5rem;
+    border-radius: 6.25rem;
+    float: left;
+    margin-right: 20px;   
+}
+.h3{
+    display: inline;
+    color: #11999E;
+}
+.footer-link{
+    margin: 0px 10px;
+    text-decoration: none;
+    color: #100742;
+}
+.footer-link:hover{
+    color: rgb(211, 23, 23);
+}
