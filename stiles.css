@@ -1,7 +1,7 @@
 body{
     margin: 0;
     text-align: center;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     font-family: 'Kalam', cursive;
 }
 .bottom-container{
     background-color: rgb(153, 214, 194);
@@ -29,7 +29,7 @@ bottom: 300px;
 h1{
     color: #111d1d;
     margin: 0;
-    font-family: vladimir script;
+     font-family: 'Great Vibes', cursive;
     font-size: 5rem;
 }
 .h2{
